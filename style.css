@@ -1,0 +1,41 @@
+.header{
+font-size:25px;
+width:100%;
+background-image:linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
+color:white;
+margin-top:0px;
+}
+.note{
+    color:red;
+    font-weight: bold;
+}
+canvas{
+    border:5px 5px;
+    border-style: dotted;
+    border-radius: 60px;
+    border-color: red;
+    margin-top:50px;
+}
+.speed_div{
+    float:left;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.speaker{
+    width:250px;
+    height:250px;
+    border-radius: 60px;
+}
+#speed{
+    font-size:25px;
+    margin-right:25px;
+}
+.volume_div{
+    float:right;
+    margin-right: 50px;
+    margin-top: 50px;
+}
+#volume{
+        font-size:25px;
+        margin-left:25px;
+    }
